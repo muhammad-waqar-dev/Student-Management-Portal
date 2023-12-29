@@ -1,0 +1,8 @@
+.main-container{
+  padding: 20px;
+  margin-top: 60px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,28 @@
+#root {
+  background: #009688;
+  height: 100vh;
+}
+
+button {
+  background-color: #00695c !important;
+  border: 0 !important;
+  color: #fff !important;
+}
+
+button:hover {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+button:active { 
+  color: #00695c !important;
+}
+.ant-pagination-item-active a {
+  color: #00695c !important;
+}
+.ant-pagination-item-active {
+  border-color: #00695c !important;
+}
+.text-white {
+  color: #fff !important;
+}
